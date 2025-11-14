@@ -4,26 +4,14 @@ A vibrant single-page website for **The Walking Potato**, an Indian street food 
 
 ## Getting Started
 
-Cloudflare Pages (or any static host) can deploy the site directly from this repository. To preview locally:
-
-```bash
-# Serve the site with any static file server
-python3 -m http.server 8080
-```
 
 Then open <http://localhost:8080> in your browser.
 
-## Project Structure
+
 
 ```
 .
-├── assets
-│   ├── css
-│   │   └── styles.css      # Core styling and responsive design
-│   └── js
-│       └── main.js         # Mobile navigation toggle & dynamic year
-└── index.html              # Landing page content
-```
+
 
 ## Features
 
@@ -37,8 +25,6 @@ Then open <http://localhost:8080> in your browser.
 
 ## Customization Tips
 
-- Update weekly route and menu details directly in `index.html`
-- Adjust colors, typography, or layout in `assets/css/styles.css`
-- Extend interactivity (e.g., form handling) in `assets/js/main.js`
+
 
 Enjoy sharing the bold flavors of The Walking Potato!
